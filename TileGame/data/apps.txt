@@ -1,0 +1,10 @@
+chrome.png
+coursera.png
+evernote.png
+facebook.png
+guardian.png
+imdb.png
+instagram.png
+skype.png
+spotify.png
+word.png
